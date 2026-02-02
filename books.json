@@ -21,14 +21,14 @@
   "title": "Rog Guide",
   "author": "KVK",
   "type": "rog",
-  "url": "...pdf..."
+  "url": "https://example.com/animal.pdf"
 },
     {
   "id": "4",
   "title": "Fertilizer Guide",
   "author": "Agri Dept",
   "type": "fertilizer",
-  "url": "...pdf..."
+  "url": "https://example.com/animal.pdf"
 }
 
     {
@@ -36,7 +36,7 @@
   "title": "animal",
   "author": "Agri Dept",
   "type": "animal",
-  "url": "...pdf..."
+  "url": "https://example.com/animal.pdf"
 }
 
 
