@@ -12,32 +12,10 @@
       "id": "2",
       "title": "सदद्रिय खत उदद्योग",
       "author": "अशद्योक कद्योठठार",
-      "type": "organic",
+      "type": "crop",
       "url": "https://raw.githubusercontent.com/Lucky2411/Farm_Brain_Books/main/sendriya_khat_udyog_ashok_kothare.pdf",
       "cover": "https://raw.githubusercontent.com/Lucky2411/Farm_Brain_Books/main/Book2cover.png"
-    },
-    {
-  "id": "3",
-  "title": "Rog Guide",
-  "author": "KVK",
-  "type": "rog",
-  "url": "https://example.com/animal.pdf"
-},
-    {
-  "id": "4",
-  "title": "Fertilizer Guide",
-  "author": "Agri Dept",
-  "type": "fertilizer",
-  "url": "https://example.com/animal.pdf"
-}
-
-    {
-  "id": "5",
-  "title": "animal",
-  "author": "Agri Dept",
-  "type": "animal",
-  "url": "https://example.com/animal.pdf"
-}
+    }
 
 
   ]
