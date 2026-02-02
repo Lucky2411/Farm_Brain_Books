@@ -15,6 +15,21 @@
       "type": "organic",
       "url": "https://raw.githubusercontent.com/Lucky2411/Farm_Brain_Books/main/sendriya_khat_udyog_ashok_kothare.pdf",
       "cover": "https://raw.githubusercontent.com/Lucky2411/Farm_Brain_Books/main/Book2cover.png"
-    }
+    },
+    {
+  "id": "3",
+  "title": "Rog Guide",
+  "author": "KVK",
+  "type": "rog",
+  "url": "...pdf..."
+},
+    {
+  "id": "4",
+  "title": "Fertilizer Guide",
+  "author": "Agri Dept",
+  "type": "fertilizer",
+  "url": "...pdf..."
+}
+
   ]
 }
